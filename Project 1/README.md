@@ -1,2 +1,2 @@
 # First Project
- ## This repository contains my **Neural Networks** course projects:
+ ## Topics of my first **Neural Networks** course project:
