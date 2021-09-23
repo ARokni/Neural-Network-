@@ -1,8 +1,11 @@
 # Neural-Networks
  ## This repository contains my **Neural Networks** course projects:
 
-:one: **Multi-Category Image Classification** task via **CNN** models on **German Traffic Sign Recognition Benchmark dataset** using **Keras**.
+:one: Implementing `Multi-Category Image Classification` task via `CNN` models on `German Traffic Sign Recognition Benchmark` dataset utilizing `Keras`.
 
- :two: **Air Pollution Forcasting** task using **GRU, LSTM, and RNN** using **Keras**.
+ :two: Implementing `Air Pollution Forcasting` task using `GRU`, `LSTM`, and `RNN` utilizing `Keras`.
 
-:three: **Generative Adverserial Nets** different models on various dataset using **Keras**. 
+:three: Implementing `Generative Adverserial Nets` models on various dataset utilizing `Keras`. 
+
+
+
