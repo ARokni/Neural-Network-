@@ -4,13 +4,13 @@
 
 * The project focused mainly on the following topics:
 
-    -   Implementing a **`Variational Autoencoder`** model on **`MNIST`** dataset.
+    -   Implementing a **`Variational Autoencoder`** model on **`MNIST`** dataset [[1]](#1).
 
-    -   Implementing **`DCGAN`** on **`CIFAR10`** dataset.
+    -   Implementing **`DCGAN`** on **`CIFAR10`** dataset [[2]](#2).
 
-    -   Implementing **`CGAN`** on **`CIFAR10`** dataset.
+    -   Implementing **`CGAN`** on **`CIFAR10`** dataset [[3]](#3).
 
-    -   Implementing **`AC-GAN`** on **`CIFAR10`** dataset.
+    -   Implementing **`AC-GAN`** on **`CIFAR10`** dataset [[4]](#4).
     
 
 
