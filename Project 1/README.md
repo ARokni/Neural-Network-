@@ -23,5 +23,7 @@
 
     - In **Data Augmentation** I found that **rotation** results in poor performance of the final model. In fact, since some different **Traffic Signs** are symmetric, applying the rotation results in amiguity and misunderstaing in models. As a result I eliminated the roation transformation.
 
+* The codes are provided in [Multi-Object Classification.py](https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py).
 
+https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py
 
