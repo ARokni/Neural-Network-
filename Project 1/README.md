@@ -17,7 +17,7 @@
     - Providing **`Loss Accuracy`** for **`Validation`** and **`Test`** data and depicting **`Confusion Matrix`** for the profound assement of the ability of the model in prediction of each seperate class.
 
 * Notble Notes:
-    -  On the ground of [[1]](#1), I have expected **ReLU** activation outperform **Sigmoid** and **tanh** since ReLu does not saturate and is computationally efficient. Moreover,  ReLu converges much fsate than Sigmoid/tanh in practice(e.g. 6X). By simulation I figured out the results are consistent with the reference paper.
+    -  On the ground of [[1]](#1), I have expected **ReLU** activation outperform **Sigmoid** and **tanh** since ReLU does not saturate and is computationally efficient. Moreover,  ReLu converges much fsate than Sigmoid/tanh in practice(e.g. 6X). By simulation I figured out the results are consistent with the reference paper.
 
     -  Based on [[2]](#2) , we know that **Gradient Descent** optimizer outperfroms **Adaptive** methods in **Image Processing** tasks; however, I applied **Adam** since adaptive optimizers have a higher convergence rate.
 

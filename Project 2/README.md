@@ -4,7 +4,7 @@
 
 * The project focused mainly on the following topics:
 
-    -   Developing a **Recurrent Nueral Net** model for a **`regression`** task.
+    -   Developing a **Recurrent Nueral Net** model for a **`regression`** task: daily, weekly, and monthly **Ari Pollution Forcasting**. 
 
     -   Investigaton the effect of various **Recurrent Neural Net** models: GRU, LSTM, and RNN on the final performance.
 
@@ -18,7 +18,7 @@
     -   On the ground [[1]](#1), [[2]](#2), we know that **LSTM** is nearly optimal, which is compatible with my simulations' results.
     -   I applied a linear layer on the GRU, RNN, and LSTM based models in orde fuse the models in **Model Ensemble** part.
 
-* The codes are provided in [Multi-Object Classification.py](https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py) folder.
+* The codes are provided in [Multi-Object Classification.py](https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py) folder, and the data available in folder.
 
 
 ## References
