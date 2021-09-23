@@ -25,5 +25,27 @@
 
 * The codes are provided in [Multi-Object Classification.py](https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py).
 
-https://github.com/ARokni/Neural-Network-/blob/main/Project%201/Multi-Object%20Classification.py
+
+
+    
+
+
+
+
+## References
+<a id="1">[1]</a> 
+[Krizhevsky, A., Sutskever, I. and Hinton, G.E., 2012. Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems, 25, pp.1097-1105.](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+<a id="2">[2]</a> 
+[Zhang, J., Karimireddy, S.P., Veit, A., Kim, S., Reddi, S.J., Kumar, S. and Sra, S., 2019. Why are adaptive methods good for attention models?. arXiv preprint arXiv:1912.03194.](https://arxiv.org/abs/1912.03194)
+
+
+<a id="3">[3]</a> 
+[Ioffe, S. and Szegedy, C., 2015, June. Batch normalization: Accelerating deep network training by reducing internal covariate shift. In International conference on machine learning (pp. 448-456). PMLR.](http://proceedings.mlr.press/v37/ioffe15.html)
+
+
+
+
+
+
 
